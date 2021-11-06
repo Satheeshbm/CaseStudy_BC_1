@@ -1,22 +1,29 @@
-# CaseStudy_BC_1
+# CaseStudy_JPM_Coin Case Study
 
-
-#push test
-
-merge test
-
-Trial by Sat, but changed by Taylor. HAHA
+Background of the company - what they do and who are the competitors
 
 
 
 
-Taylor Added his!
-Trial by Sat - trying out
 
 
-Trial 2 
+How does this company use technology to their advantage? Why are they considered a FinTech company?
 
-Trial by Sat, but changed by Taylor. HAHA
 
-Taylor Added his!
-trial3
+
+
+
+Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+
+
+
+
+
+
+What is the prognosis for this company? Where do they expect to be in the future?
+
+
+
+
+
+
