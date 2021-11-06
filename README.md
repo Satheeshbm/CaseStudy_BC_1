@@ -1,7 +1,8 @@
 # CaseStudy_JPM_Coin Case Study
 
 Background of the company - what they do and who are the competitors
-
+JP Morgan is a commercial and investment bank.
+Their competitors include other Morgan Stanley, Goldman Sachs, HSBC etc
 
 
 
